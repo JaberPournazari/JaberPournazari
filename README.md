@@ -49,4 +49,5 @@ We use GitHub Discussions to:
 If you’re new, introduce yourself below and tell us what you’re working on.  
 
 ## 💬 Discussions
-[👉 discussions \ page](https://github.com/JaberPournazari/discussions)
+👉 [Discussions Page](https://github.com/JaberPournazari/discussions)
+
