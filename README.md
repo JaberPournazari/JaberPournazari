@@ -47,3 +47,6 @@ We use GitHub Discussions to:
 
 ✨ Let’s learn, share, and create impactful solutions together!  
 If you’re new, introduce yourself below and tell us what you’re working on.  
+
+## 💬 Discussions
+[👉 discussions \ page](https://github.com/JaberPournazari/discussions)
